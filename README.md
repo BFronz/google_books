@@ -1,6 +1,6 @@
 ## Google Books
 
-React-based Google Books Search app.
+Full stack React application for retrieving books from a database. Built with a
 
 ```
 Run  on command line: npm start
@@ -8,7 +8,7 @@ Run  on command line: npm start
 ```
 
 ### Installing
-Clone this repo to your local machine using https://github.com/BFronz/Google-Books-Search.git
+Clone this repo to your local machine using https://github.com/BFronz/google_books.git
  
 ```
 npm install package.json
@@ -22,6 +22,7 @@ npm install package.json
 * React
 * Bootstrap
 * MongoDB
+* Mongoose
 
 
  
