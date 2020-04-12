@@ -1,6 +1,7 @@
 ## Google Books
 
-Full stack React application for retrieving books from a database. Built with a
+Full stack React application for retrieving books from a database.
+
 
 ```
 Run  on command line: npm start
@@ -27,11 +28,9 @@ npm install package.json
 
  
 ## Special Features
- - Search any book title on google
+ - React Router
  - Save books MongoDB
- - Remove save book
- - Deployed on Heriku:  <a href="https://serene-wildwood-13353.herokuapp.com/search">https://serene-wildwood-13353.herokuapp.com/search</a>
-
+ - CRUD
 
  
 ## Acknowledgments
